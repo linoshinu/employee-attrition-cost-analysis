@@ -1,6 +1,6 @@
 # LinkedIn post drafts
 
-Review each draft before publishing. Replace the repository link after the GitHub repository is populated. Keep the disclosure that the IBM sample is fictional.
+Two ready-to-adapt drafts; both link to the public repository. Add a live Streamlit app URL after you deploy one. Keep the disclosure that the IBM sample is fictional.
 
 ## Post 1 — concise project launch
 
